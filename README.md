@@ -35,8 +35,8 @@ Here are a few highlights:
 
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/sanelemathonsi123](https://linkedin.com/in/sanelemathonsi123)  
-- **GitHub:** [github.com/sanelemathonsi123-MsG](https://github.com/sanelemathonsi123-MsG)  
-- **Email:** (add your email here)
+ 
+- **Email:** (sanelemathonsi123@gmail.com)
 
 ---
 
